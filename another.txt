@@ -1,0 +1,11 @@
+There is testing 
+
+function helloBoy(string x)
+{
+	string tests = "there are tests";
+}
+
+function hellodog(string y)
+{
+	string tested = "there are tested";
+}
